@@ -11,7 +11,7 @@ updates:
     schedule:
       interval: weekly
       day: wednesday
-      time: 16:00
+      time: "16:00"
       timezone: America/New_York
     labels:
       - dependencies
